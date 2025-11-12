@@ -8,6 +8,7 @@ import { testimonials } from "@/lib/data";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { Quote, Star } from "lucide-react";
 import Balancer from "react-wrap-balancer";
+import { cn } from "@/lib/utils";
 
 const StarRating = ({ rating }: { rating: number }) => (
   <div className="flex gap-1">
