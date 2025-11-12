@@ -1,3 +1,118 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "baker-photo",
+      "description": "A smiling female baker holding a freshly baked cake",
+      "imageUrl": "https://images.unsplash.com/photo-1625489409904-324a5e9591e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGJha2VyfGVufDB8fHx8MTc2Mjk3MDA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman baker"
+    },
+    {
+      "id": "menu-cake-1",
+      "description": "A rich chocolate truffle cake on a stand",
+      "imageUrl": "https://images.unsplash.com/photo-1605807646983-377bc5a76493?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaG9jb2xhdGUlMjBjYWtlfGVufDB8fHx8MTc2Mjk2Mzc4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate cake"
+    },
+    {
+      "id": "menu-cupcake-1",
+      "description": "A single red velvet cupcake with cream cheese frosting",
+      "imageUrl": "https://images.unsplash.com/photo-1641255483533-ae66ee4dad2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyZWQlMjBjdXBjYWtlfGVufDB8fHx8MTc2Mjk3MDA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red cupcake"
+    },
+    {
+      "id": "menu-brownie-1",
+      "description": "A stack of fudgy chocolate brownies",
+      "imageUrl": "https://images.unsplash.com/photo-1642423927418-fdac74328f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBicm93bmllc3xlbnwwfHx8fDE3NjI5NjkzMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate brownies"
+    },
+    {
+      "id": "menu-jar-cake-1",
+      "description": "A layered cake in a glass jar",
+      "imageUrl": "https://images.unsplash.com/photo-1632682996575-9add08b98716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxqYXIlMjBjYWtlfGVufDB8fHx8MTc2Mjk3MDA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jar cake"
+    },
+    {
+      "id": "menu-dry-cake-1",
+      "description": "A slice of almond and raisin dry cake",
+      "imageUrl": "https://images.unsplash.com/photo-1573730886197-8636f98b2de0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmcnVpdCUyMGNha2V8ZW58MHx8fHwxNzYyOTY5MzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit cake"
+    },
+    {
+      "id": "menu-nankhatai-1",
+      "description": "A plate of traditional Indian Nankhatai biscuits",
+      "imageUrl": "https://images.unsplash.com/photo-1601318907950-778691dabde7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzaG9ydGJyZWFkJTIwY29va2llc3xlbnwwfHx8fDE3NjI5NzAwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shortbread cookies"
+    },
+    {
+      "id": "review-person-1",
+      "description": "Profile picture of a smiling young woman",
+      "imageUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2Mjg4ODYyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "review-person-2",
+      "description": "Profile picture of a young man with glasses",
+      "imageUrl": "https://images.unsplash.com/photo-1636377985931-898218afd306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI5NTI2MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "review-person-3",
+      "description": "Profile picture of a woman in her 30s",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI5MzU5MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "review-person-4",
+      "description": "Profile picture of a man in a casual shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzbWlsaW5nJTIwbWFufGVufDB8fHx8MTc2Mjg5MjU4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling man"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Multi-layered wedding cake with floral decorations",
+      "imageUrl": "https://images.unsplash.com/photo-1503525642560-ecca5e2e49e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3ZWRkaW5nJTIwY2FrZXxlbnwwfHx8fDE3NjI4NTA0Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wedding cake"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Chocolate drip cake with fresh berries on top",
+      "imageUrl": "https://images.unsplash.com/photo-1610670444950-0b29430891b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkcmlwJTIwY2FrZXxlbnwwfHx8fDE3NjI5NzAwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drip cake"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A box of a dozen assorted cupcakes",
+      "imageUrl": "https://images.unsplash.com/photo-1604557908427-3c3424df505a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhc3NvcnRlZCUyMGN1cGNha2VzfGVufDB8fHx8MTc2Mjk3MDA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "assorted cupcakes"
+    },
+    {
+      "id": "gallery-4",
+      "description": "A superhero-themed birthday cake for a child",
+      "imageUrl": "https://images.unsplash.com/photo-1759922550477-19632d9ce30b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxraWRzJTIwY2FrZXxlbnwwfHx8fDE3NjI5NzAwNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kids cake"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Elegant pastel-colored cake with sugar flowers",
+      "imageUrl": "https://images.unsplash.com/photo-1621303836633-baaf78d83712?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmbG9yYWwlMjBjYWtlfGVufDB8fHx8MTc2Mjk3MDA3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "floral cake"
+    },
+    {
+      "id": "gallery-6",
+      "description": "A close-up shot of a gooey brownie stack",
+      "imageUrl": "https://images.unsplash.com/photo-1626062071423-d18d560a44bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxicm93bmllJTIwc3RhY2t8ZW58MHx8fHwxNzYyOTY5MzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brownie stack"
+    },
+    {
+      "id": "gallery-7",
+      "description": "Two jar cakes with spoons, ready to eat",
+      "imageUrl": "https://images.unsplash.com/photo-1567691334394-c0d00a7716db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkZXNzZXJ0JTIwamFyc3xlbnwwfHx8fDE3NjI5NzAwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dessert jars"
+    },
+    {
+      "id": "gallery-8",
+      "description": "A simple and minimalist white cake with a single flower on top",
+      "imageUrl": "https://images.unsplash.com/photo-1610390919456-b67e2f513c30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtaW5pbWFsaXN0JTIwY2FrZXxlbnwwfHx8fDE3NjI5NzAwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist cake"
+    }
+  ]
 }
