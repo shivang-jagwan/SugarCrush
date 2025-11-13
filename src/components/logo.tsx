@@ -9,9 +9,9 @@ export const Logo = ({ className }: { className?: string }) => {
         alt="SugarCrush Logo"
         width={40}
         height={40}
-        className="h-10 w-10 rounded-md object-cover"
+        className="h-10 w-10 rounded-md object-cover animate-float"
       />
-      <span className="font-headline text-2xl font-bold text-foreground">
+      <span className="font-headline text-2xl font-bold text-foreground animate-float-text">
         SugarCrush
       </span>
     </div>

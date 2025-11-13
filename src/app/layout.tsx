@@ -5,6 +5,7 @@ import { Header } from '@/components/layout/header';
 import { Footer } from '@/components/layout/footer';
 import { WhatsAppFAB } from '@/components/whatsapp-fab';
 import { ScrollToTop } from '@/components/scroll-to-top';
+import { FloatingTextBg } from '@/components/floating-text-bg';
 import { Balancer as HeadingsBalancerProvider } from "react-wrap-balancer";
 
 
@@ -27,6 +28,7 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
       </head>
       <body className="font-body antialiased">
+        <FloatingTextBg />
         <HeadingsBalancerProvider>
           <Header />
           <main>{children}</main>
@@ -39,3 +41,4 @@ export default function RootLayout({
     </html>
   );
 }
+

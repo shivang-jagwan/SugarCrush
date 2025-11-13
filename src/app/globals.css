@@ -94,3 +94,58 @@
     @apply bg-card/50 backdrop-blur-lg;
   }
 }
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-10px) rotate(2deg);
+  }
+}
+
+@keyframes float-text {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-float-text {
+  animation: float-text 3s ease-in-out infinite;
+}
+
+@keyframes floating-drift {
+  0% {
+    transform: translate(0, 0) rotate(0deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.6;
+  }
+  90% {
+    opacity: 0.6;
+  }
+  100% {
+    transform: translate(var(--tx), var(--ty)) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+.floating-text {
+  position: fixed;
+  font-size: clamp(1rem, 5vw, 3rem);
+  font-weight: bold;
+  pointer-events: none;
+  z-index: 10;
+  animation: floating-drift linear infinite;
+  color: hsl(var(--primary) / 0.4);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-family: var(--font-headline, serif);
+}
