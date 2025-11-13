@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+*.md
+node_modules
+npm-debug.log
+.DS_Store
+.env.local
+.env.*.local
+src/ai/dev.ts
+docs
